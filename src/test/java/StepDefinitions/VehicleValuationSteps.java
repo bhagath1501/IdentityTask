@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+//sample 1 code
 
 public class VehicleValuationSteps {
 
