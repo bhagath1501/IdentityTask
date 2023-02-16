@@ -1,4 +1,4 @@
-Feature: Vehicle valuation test feature
+Feature: Vehicle valuation test feature file
 
   @vehicleRegValidation @abd
   Scenario: Validate Vehicle Registration Number
