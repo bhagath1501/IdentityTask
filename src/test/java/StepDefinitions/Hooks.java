@@ -28,6 +28,7 @@ public class Hooks {
 //1st comment
     @After
     public void tearDown(Scenario scenario) {
+        //2nd comment
 
         if(scenario.isFailed()) {
             try {
