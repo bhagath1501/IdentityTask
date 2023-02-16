@@ -21,6 +21,7 @@ public class Hooks {
 
     @Before
     public void setUp() {
+        //newly added
         webDriver = testContext.getDriverManager().getDriver();
         webDriver.get(FileReaderManager.getInstance().getConfigFileReader().getUrl());
     }
